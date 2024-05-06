@@ -1,0 +1,11 @@
+{
+  "name": "send-multiple-transctions",
+  "version": "1.0.0",
+  "description": "send-multiple-transctions",
+  "main": "index.js",
+  "author": "taritmahato",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.5.2"
+  }
+}
